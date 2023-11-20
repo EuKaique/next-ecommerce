@@ -2,8 +2,8 @@
 
 export default function Home() {
   return (
-    <main>
+    <div>
       <h1>Next ecommerce 14</h1>
-    </main>
+    </div>
   )
 }
